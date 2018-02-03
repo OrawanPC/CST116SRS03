@@ -6,9 +6,8 @@ Class ID: Seel
 
 SRS ID: CST116SRS03
 
-Unresolved Issues:  
-
-Notes:  
+Unresolved Issues:  There is occasional glitch in my Part 1 when build and debug.
+Notes:  I have some problem running occasionally it shown the solution as nan(???). Would you please kindly check? Thank you.
 
 
 ---
